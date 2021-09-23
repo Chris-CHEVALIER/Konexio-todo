@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "todo-correction",
+    "slug": "todo-correction",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "todo-correction"
+}
